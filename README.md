@@ -10,7 +10,7 @@
 **💡 Roles I'm passionate about:**  
 🚀 Data Scientist · AI Engineer · NLP Engineer · Generative AI Engineer · ML Engineer 
 
-I build smart systems to **solve real-world problems** using ethical, accessible, and scalable AI.
+I Predicting tomorrow’s trends with today’s data
 
 
 ### 🔭 Featured Work & Achievements
