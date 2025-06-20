@@ -10,7 +10,7 @@
 **💡 Roles I'm passionate about:**  
 🚀 Data Scientist · AI Engineer · NLP Engineer · Generative AI Engineer · ML Engineer 
 
-I Predicting tomorrow’s trends with today’s data
+Working on  Predicting tomorrow’s trends with today’s data
 
 
 ### 🔭 Featured Work & Achievements
