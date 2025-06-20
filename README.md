@@ -84,6 +84,6 @@ Completed specialized coursework in AI/ML from Stanford, Google, DeepLearning.AI
 
 ### ✍️ I Believe In
 
-> "Sincerity is much better than seniority"
+> **Sincerity is much better than seniority**
 
 ---
