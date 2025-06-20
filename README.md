@@ -44,37 +44,37 @@ Completed specialized coursework in AI/ML from Stanford, Google, DeepLearning.AI
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:balajiscientist1@gmail.com)  
 
 
----
+
 
 ### 👨‍💻 I Code In
 
 <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/flutter.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
----
+
 
 ### 🛠 Tools I Use
 
 <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/color/48/null/google-cloud.png"/> <img height="50" src="https://img.icons8.com/color/48/null/postman.png"/> <img height="50" src="https://img.icons8.com/color/48/null/firebase.png"/> <img height="50" src="https://img.icons8.com/color/48/null/power-bi.png"/>
 
----
+
 
 ### 💻 Workspace
 
 <img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_12thGen-blue?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GeForce_GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
----
+
 
 ### 📊 GitHub Stats
 
 ![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balajiscientist&theme=dark&show_icons=true&hide=contribs)
 
----
+
 
 ### 🧠 LeetCode Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/balajiscientist?theme=dark&ext=contest)](https://leetcode.com/balajiscientist)
 
----
+
 
 ### 🔥 GitHub Contribution Activity
 
@@ -86,4 +86,4 @@ Completed specialized coursework in AI/ML from Stanford, Google, DeepLearning.AI
 
 > **Sincerity is much better than seniority**
 
----
+
