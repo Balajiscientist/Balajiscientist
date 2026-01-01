@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Balaji 
  
 🎓 B.Tech - CSE (Artificial intelligence & DataScience) @ The Apollo University   
-                       <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+                      
 
 
 
@@ -64,21 +64,7 @@ Completed specialized coursework in AI/ML from Stanford, Google, DeepLearning.AI
 
 
 
-### 📊 GitHub Stats
 
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balajiscientist&theme=dark&show_icons=true&hide=contribs)
-
-
-
-### 🧠 LeetCode Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/balajiscientist?theme=dark&ext=contest)](https://leetcode.com/balajiscientist)
-
-
-
-### 🔥 GitHub Contribution Activity
-
-[![Balaji's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balajiscientist&bg_color=000000&color=00ffb3&line=00ffc3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
