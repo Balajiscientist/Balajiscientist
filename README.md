@@ -51,16 +51,33 @@ Completed specialized coursework in AI/ML from Stanford, Google, DeepLearning.AI
 <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/flutter.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 
-
 ### 🛠 Tools I Use
 
-<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/color/48/null/google-cloud.png"/> <img height="50" src="https://img.icons8.com/color/48/null/postman.png"/> <img height="50" src="https://img.icons8.com/color/48/null/firebase.png"/> <img height="50" src="https://img.icons8.com/color/48/null/power-bi.png"/>
+<div style="display:flex; flex-wrap:nowrap; align-items:center; gap:8px; overflow-x:auto;">
+<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img height="50" src="https://img.icons8.com/color/48/pycharm.png"/>
+<img height="50" src="https://img.icons8.com/color/48/git.png"/>
+<img height="50" src="https://img.icons8.com/ios-filled/50/github.png"/>
+<img height="50" src="https://img.icons8.com/dusk/64/anaconda.png"/>
+<img height="50" src="https://img.icons8.com/fluency/48/jupyter.png"/>
+<img height="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/><img height="50" src="https://cdn.simpleicons.org/databricks/FF3621"/>
+<img height="50" src="https://img.icons8.com/color/48/postman-api.png"/>
+<img height="50" src="https://img.icons8.com/color/48/streamlit.png"/>
+<img height="50" src="https://img.icons8.com/color/48/netlify.png"/>
+<img height="50" src="https://img.icons8.com/color/48/tableau-software.png"/>
+</div>
+
+
+
+
 
 
 
 ### 💻 Workspace
 
-<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_12thGen-blue?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GeForce_GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/macOS-15.3-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Apple-M4_Silicon-black?style=for-the-badge&logo=apple&logoColor=white"/> 
+
+
 
 
 
